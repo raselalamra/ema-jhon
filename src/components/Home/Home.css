@@ -1,0 +1,27 @@
+.home-container {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  margin-top: 2%;
+  margin-left: 15%;
+  margin-right: 20%;
+  border: 3px solid #ff9900;
+  padding: 2%;
+}
+.sell-container {
+  margin-top: 25%;
+}
+
+.home-container img {
+  height: 80%;
+  margin-top: 20%;
+}
+.sell-container .sale {
+  color: #ff9900;
+}
+
+.btn-shop {
+  margin-top: 4%;
+  padding: 2%;
+  background-color: #ff9900;
+  cursor: pointer;
+}
